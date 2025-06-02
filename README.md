@@ -1,6 +1,28 @@
 # Encrypted Messenger App
 A simple Java-based chat application that enables secure communication between a Server and a Client using various encryption algorithms: **AES**, **DES**, and **Triple DES (3DES)**. The application features a graphical user interface (GUI) for ease of use.
 
+## Table of Contents
+- [Encrypted Messenger App](#encrypted-messenger-app)
+  - [Features](#features)
+  - [How It Works](#how-it-works)
+    - [ServerGUI](#servergui)
+    - [ClientGUI](#clientgui)
+  - [Encryption Algorithms](#encryption-algorithms)
+    - [AES (Advanced Encryption Standard)](#aes-advanced-encryption-standard)
+    - [DES (Data Encryption Standard)](#des-data-encryption-standard)
+    - [3DES (Triple Data Encryption Standard)](#3des-triple-data-encryption-standard)
+  - [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Running the Application](#running-the-application)
+  - [Configuration](#configuration)
+  - [Usage](#usage)
+    - [Select Encryption Algorithm](#select-encryption-algorithm)
+    - [Key Management](#key-management)
+    - [Save Settings](#save-settings)
+    - [Start Chatting](#start-chatting)
+  - [Important Security Notes](#important-security-notes)
+  - [Screenshot](#screenshot)
 
 ## Features
 - **Secure Communication**: Messages are encrypted with industry-standard algorithms.
