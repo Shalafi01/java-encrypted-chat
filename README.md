@@ -81,3 +81,8 @@ Communication is established via **TCP sockets**. All messages are encrypted bef
 - **DES Warning**: DES is outdated and **insecure**. Prefer AES for strong encryption.
 - **AES IV Usage**: A unique IV is generated per message in GCM mode—**never reuse** an IV with the same key.
 - **Exception Handling**: Basic handling is included, but production use requires more robust logging and error management.
+
+## Screenshot
+<img src="img/screenshot_1.png" alt="Contacts App Screenshot" style="width: 900px;"/>
+
+<img src="img/screenshot_2.png" alt="Contacts App Screenshot" style="width: 900px;"/>
