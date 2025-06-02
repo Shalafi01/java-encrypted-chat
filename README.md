@@ -2,7 +2,6 @@
 A simple Java-based chat application that enables secure communication between a Server and a Client using various encryption algorithms: **AES**, **DES**, and **Triple DES (3DES)**. The application features a graphical user interface (GUI) for ease of use.
 
 ## Table of Contents
-- [Encrypted Messenger App](#encrypted-messenger-app)
   - [Features](#features)
   - [How It Works](#how-it-works)
     - [ServerGUI](#servergui)
